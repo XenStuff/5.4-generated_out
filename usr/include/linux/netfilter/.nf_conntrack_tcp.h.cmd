@@ -1,0 +1,1 @@
+cmd_usr/include/linux/netfilter/nf_conntrack_tcp.h := sh /home/rayan/p/kernel/msm-5.4/scripts/headers_install.sh /home/rayan/p/kernel/msm-5.4/include/uapi/linux/netfilter/nf_conntrack_tcp.h usr/include/linux/netfilter/nf_conntrack_tcp.h

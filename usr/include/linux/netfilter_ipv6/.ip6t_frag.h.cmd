@@ -1,0 +1,1 @@
+cmd_usr/include/linux/netfilter_ipv6/ip6t_frag.h := sh /home/rayan/p/kernel/msm-5.4/scripts/headers_install.sh /home/rayan/p/kernel/msm-5.4/include/uapi/linux/netfilter_ipv6/ip6t_frag.h usr/include/linux/netfilter_ipv6/ip6t_frag.h

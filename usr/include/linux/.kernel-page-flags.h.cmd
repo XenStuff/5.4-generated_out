@@ -1,0 +1,1 @@
+cmd_usr/include/linux/kernel-page-flags.h := sh /home/rayan/p/kernel/msm-5.4/scripts/headers_install.sh /home/rayan/p/kernel/msm-5.4/include/uapi/linux/kernel-page-flags.h usr/include/linux/kernel-page-flags.h

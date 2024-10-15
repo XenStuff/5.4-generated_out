@@ -1,0 +1,1 @@
+cmd_usr/include/audio/linux/mfd/wcd9xxx/wcd9xxx_registers.h := sh /home/rayan/p/kernel/msm-5.4/scripts/headers_install.sh /home/rayan/p/kernel/msm-5.4/techpack/audio/include/uapi/audio/linux/mfd/wcd9xxx/wcd9xxx_registers.h usr/include/audio/linux/mfd/wcd9xxx/wcd9xxx_registers.h

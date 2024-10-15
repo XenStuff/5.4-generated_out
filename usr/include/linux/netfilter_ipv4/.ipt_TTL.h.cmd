@@ -1,0 +1,1 @@
+cmd_usr/include/linux/netfilter_ipv4/ipt_TTL.h := sh /home/rayan/p/kernel/msm-5.4/scripts/headers_install.sh /home/rayan/p/kernel/msm-5.4/include/uapi/linux/netfilter_ipv4/ipt_TTL.h usr/include/linux/netfilter_ipv4/ipt_TTL.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/rio_mport_cdev.h := sh /home/rayan/p/kernel/msm-5.4/scripts/headers_install.sh /home/rayan/p/kernel/msm-5.4/include/uapi/linux/rio_mport_cdev.h usr/include/linux/rio_mport_cdev.h

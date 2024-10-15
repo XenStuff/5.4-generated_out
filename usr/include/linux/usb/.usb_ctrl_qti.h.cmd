@@ -1,0 +1,1 @@
+cmd_usr/include/linux/usb/usb_ctrl_qti.h := sh /home/rayan/p/kernel/msm-5.4/scripts/headers_install.sh /home/rayan/p/kernel/msm-5.4/include/uapi/linux/usb/usb_ctrl_qti.h usr/include/linux/usb/usb_ctrl_qti.h

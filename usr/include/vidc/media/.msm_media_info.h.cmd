@@ -1,0 +1,1 @@
+cmd_usr/include/vidc/media/msm_media_info.h := sh /home/rayan/p/kernel/msm-5.4/scripts/headers_install.sh /home/rayan/p/kernel/msm-5.4/techpack/video/include/uapi/vidc/media/msm_media_info.h usr/include/vidc/media/msm_media_info.h

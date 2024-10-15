@@ -1,0 +1,1 @@
+cmd_usr/include/linux/byteorder/little_endian.h := sh /home/rayan/p/kernel/msm-5.4/scripts/headers_install.sh /home/rayan/p/kernel/msm-5.4/include/uapi/linux/byteorder/little_endian.h usr/include/linux/byteorder/little_endian.h

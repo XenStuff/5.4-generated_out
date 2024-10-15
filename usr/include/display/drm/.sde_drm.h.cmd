@@ -1,0 +1,1 @@
+cmd_usr/include/display/drm/sde_drm.h := sh /home/rayan/p/kernel/msm-5.4/scripts/headers_install.sh /home/rayan/p/kernel/msm-5.4/techpack/display/include/uapi/display/drm/sde_drm.h usr/include/display/drm/sde_drm.h

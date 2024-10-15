@@ -1,0 +1,1 @@
+cmd_usr/include/sound/compress_offload.h := sh /home/rayan/p/kernel/msm-5.4/scripts/headers_install.sh /home/rayan/p/kernel/msm-5.4/include/uapi/sound/compress_offload.h usr/include/sound/compress_offload.h

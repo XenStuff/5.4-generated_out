@@ -1,0 +1,1 @@
+cmd_scripts/kconfig/parser.tab.h := /home/rayan/p/prebuilts/build-tools/linux-x86/bin/bison -o scripts/kconfig/parser.tab.c --defines=scripts/kconfig/parser.tab.h -t -l /home/rayan/p/kernel/msm-5.4/scripts/kconfig/parser.y

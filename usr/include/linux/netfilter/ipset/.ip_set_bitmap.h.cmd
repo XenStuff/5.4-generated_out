@@ -1,0 +1,1 @@
+cmd_usr/include/linux/netfilter/ipset/ip_set_bitmap.h := sh /home/rayan/p/kernel/msm-5.4/scripts/headers_install.sh /home/rayan/p/kernel/msm-5.4/include/uapi/linux/netfilter/ipset/ip_set_bitmap.h usr/include/linux/netfilter/ipset/ip_set_bitmap.h

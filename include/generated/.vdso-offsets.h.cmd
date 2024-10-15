@@ -1,0 +1,1 @@
+cmd_include/generated/vdso-offsets.h := llvm-nm arch/arm64/kernel/vdso/vdso.so.dbg | /home/rayan/p/kernel/msm-5.4/arch/arm64/kernel/vdso/gen_vdso_offsets.sh | LC_ALL=C sort > include/generated/vdso-offsets.h

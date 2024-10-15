@@ -1,0 +1,1 @@
+cmd_scripts/mod/modpost := /home/rayan/p/prebuilts/clang/host/linux-x86/clang-r498229b/bin/clang  -L/usr/lib64 -L/usr/lib64/x86_64-linux-gnu -L/usr/lib -L/usr/lib/x86_64-linux-gnu -fuse-ld=lld -o scripts/mod/modpost scripts/mod/modpost.o scripts/mod/file2alias.o scripts/mod/sumversion.o   

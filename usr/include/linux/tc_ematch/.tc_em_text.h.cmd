@@ -1,0 +1,1 @@
+cmd_usr/include/linux/tc_ematch/tc_em_text.h := sh /home/rayan/p/kernel/msm-5.4/scripts/headers_install.sh /home/rayan/p/kernel/msm-5.4/include/uapi/linux/tc_ematch/tc_em_text.h usr/include/linux/tc_ematch/tc_em_text.h

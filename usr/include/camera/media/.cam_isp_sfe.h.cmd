@@ -1,0 +1,1 @@
+cmd_usr/include/camera/media/cam_isp_sfe.h := sh /home/rayan/p/kernel/msm-5.4/scripts/headers_install.sh /home/rayan/p/kernel/msm-5.4/techpack/camera/include/uapi/camera/media/cam_isp_sfe.h usr/include/camera/media/cam_isp_sfe.h

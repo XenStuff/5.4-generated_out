@@ -1,0 +1,1 @@
+cmd_usr/include/camera/media/cam_cpas.h := sh /home/rayan/p/kernel/msm-5.4/scripts/headers_install.sh /home/rayan/p/kernel/msm-5.4/techpack/camera/include/uapi/camera/media/cam_cpas.h usr/include/camera/media/cam_cpas.h
